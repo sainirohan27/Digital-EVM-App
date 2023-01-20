@@ -22,12 +22,12 @@ class FormScreenState extends State<FormScreen> {
     'ZMR3465656': 'SHAGUN',
   };
 
-  var details2 = {
+  var details2 = {  //sample data
     'ABC1234567': '123456789012',
     'XYZ7654321': '111111111111',
     'a': 'a',
-    'ZMR3480680': '305084224163',
-    'ZMR3465656': '333333444444',
+    'ZMR3580681': '305084224162',
+    'ZMR3565657': '333333444444',
   };
 
   Future<void> _showMyDialog() async {
